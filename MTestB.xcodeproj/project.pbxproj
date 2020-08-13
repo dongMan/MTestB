@@ -595,7 +595,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E4D934DF02AC2AA182C2252D /* Pods-MTestB.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MTestB/Info.plist;
@@ -616,7 +615,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CC6FB2AECFA9238B7945229B /* Pods-MTestB.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MTestB/Info.plist;
